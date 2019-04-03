@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1486111768 source:d:\kakurodz\kakurodz\main.cpp
+	"Solver.h"
+
+1486111768 d:\kakurodz\kakurodz\solver.h
+	<stdio.h>
+	<iostream>
+	"Cellule.h"
+
+1486111768 d:\kakurodz\kakurodz\cellule.h
+
+1486111768 source:d:\kakurodz\kakurodz\cellule.cpp
+	"Cellule.h"
+
